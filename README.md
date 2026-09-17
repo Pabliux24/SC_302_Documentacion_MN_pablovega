@@ -1,3 +1,3 @@
-# SC_302_Documentacion_MN_pabloveg
+# SC_302_Documentacion_MN_pablovega
 + Esta es mi primera práctica con GitHub.
-Commit realizo ór pablo vega
+
